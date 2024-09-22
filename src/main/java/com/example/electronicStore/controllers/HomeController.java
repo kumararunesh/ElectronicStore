@@ -35,5 +35,5 @@ public class HomeController {
     @GetMapping("admin")
     public String sayAdminHello()
     {
-        return "Hello from admin endpoint";}
+        return "Hello from admin endpoints";}
 }
